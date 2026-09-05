@@ -16,7 +16,7 @@ kdf = PBKDF2HMAC(
 	iterations=100000,
 	backend=default_backend()
 )
-password = "emransawft"
+password = couldbeanything"
 directory = "C:\\exa\\" #Replaced by file picker in Tkinter lib
 files = [] #Files in a folder
 include_subfolder = True #Encrypt the files in subfolder [True by default]
